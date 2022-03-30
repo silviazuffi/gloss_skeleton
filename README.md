@@ -2,7 +2,7 @@
 GLoSS Model of the Human Skeleton
 
 This repostory contains code for using a [Stitched Puppet](http://stitch.is.tue.mpg.de/) model of the human skeleton with global-local optimization (GLoSS).
-The skeleton GLoSS model has been created for the work "OSSO: Obtaining Skeletal Shape form Outside" (CVPR2022), and has been created from a skeleton template from "Anatomy Transfer"(https://www.cs.utah.edu/~ladislav/alihamadi13anatomy/alihamadi13anatomy.html)
+The skeleton GLoSS model has been created for the work "OSSO: Obtaining Skeletal Shape form Outside" (CVPR2022), and has been created from a skeleton template from ["Anatomy Transfer"](https://www.cs.utah.edu/~ladislav/alihamadi13anatomy/alihamadi13anatomy.html)
 The Stitched Puppet model has been defined in the work ["The Stitched Puppet: A Graphical Model of 3D Human Shape and Pose"](https://files.is.tue.mpg.de/black/papers/StitchCVPR2015.pdf) (CVPR2015). In this work, inference is performed with Non-Parametric Belief Propagation, with a novel mode-preserving method introduced in ["Preserving Modes and Messages via Diverse Particle Selection"](https://files.is.tue.mpg.de/black/papers/ICML2014.pdf) (ICML2014).
 In the work ["3D Menagerie: Modeling the 3D Shape and Pose of Animals"](https://files.is.tue.mpg.de/black/papers/smal_cvpr_2017.pdf) (CVPR2017) we defined a part-based model like SP, but with a different representation, based on the chumpy framework, for global optimization. We call this model GLoSS.
 
