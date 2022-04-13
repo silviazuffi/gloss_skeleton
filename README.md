@@ -16,9 +16,9 @@ chumpy,
 mesh library (https://github.com/MPI-IS/mesh). 
 
 ## Model
-Download the Gloss Skeleton Model from the ["OSSO webpage"](https://osso.is.tue.mpg.de/download.php) and place it in a directory 
+Download the Gloss Skeleton Model from the ["OSSO webpage"](https://osso.is.tue.mpg.de/download.php), and place it in the directory models, where you should have:
 ```
-models
+models/skeleton_gloss_no_fingers.pkl
 ```
 
 ## Demo
