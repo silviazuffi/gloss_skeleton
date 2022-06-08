@@ -7,7 +7,7 @@ The Software and the associated materials has been developed at the
 
 Max Planck Institute for Intelligent Systems (hereinafter "MPI") and IMATI-CNR.
 The original skeleton mesh is from the paper: 
-Ali Hamadi Dicko, Tiantian Liu, Benjamin Gilles, Ladislav Kavan, François Faure, Olivier Palombi, Marie-Paule Cani. Anatomy Transfer. ACM Transaction on Graphics 32(6) [Proceedings of SIGGRAPH Asia], 2013.
+Ali Hamadi Dicko, Tiantian Liu, Benjamin Gilles, Ladislav Kavan, François Faure, Olivier Palombi, Marie-Paule Cani. Anatomy Transfer. ACM Transaction on Graphics 32(6) [Proceedings of SIGGRAPH Asia], 2013 and was kindly made available by Anatoscope (www.anatoscope.com).
 
 Any copyright or patent right is owned by and proprietary material of the
 
